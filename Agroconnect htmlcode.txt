@@ -1,0 +1,90 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AgroConnect: Empowering Farmers for a Sustainable Future</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+</head>
+<body class="font-roboto bg-gray-100">
+    <header class="bg-green-600 text-white p-4">
+        <div class="container mx-auto flex justify-between items-center">
+            <h1 class="text-2xl font-bold">AgroConnect</h1>
+            <nav>
+                <ul class="flex space-x-4">
+                    <li><a href="#" class="hover:underline">Home</a></li>
+                    <li><a href="#" class="hover:underline">Features</a></li>
+                    <li><a href="#" class="hover:underline">About Us</a></li>
+                    <li><a href="#" class="hover:underline">Contact</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <main class="container mx-auto p-4">
+        <section class="text-center my-8">
+            <h2 class="text-3xl font-bold mb-4">Welcome to AgroConnect: Empowering Farmers for a Sustainable Future</h2>
+            <p class="text-lg">AgroConnect is an all-in-one platform tailored to meet the diverse needs of farmers. Here’s how we make farming smarter, more profitable, and efficient:</p>
+        </section>
+
+        <section class="my-8">
+            <h3 class="text-2xl font-bold mb-4">Key Features:</h3>
+            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+                <div class="bg-white p-6 rounded-lg shadow-lg">
+                    <h4 class="text-xl font-bold mb-2">Land Analyzer</h4>
+                    <p>Utilize cutting-edge AI to analyze your land's soil quality, climate, and water availability. Get personalized crop recommendations based on your land’s characteristics, market trends, and demand forecasts.</p>
+                </div>
+                <div class="bg-white p-6 rounded-lg shadow-lg">
+                    <h4 class="text-xl font-bold mb-2">Market Insights & Crop Selling</h4>
+                    <p>Access real-time market updates on crop prices, refreshed every 24 hours. Sell your harvest directly to buyers at competitive prices, eliminating middlemen.</p>
+                </div>
+                <div class="bg-white p-6 rounded-lg shadow-lg">
+                    <h4 class="text-xl font-bold mb-2">Machinery & Vehicle Rentals</h4>
+                    <p>Browse a wide range of farming vehicles and equipment available for rent, tailored to your needs and budget. Book instantly to save time and effort during the cultivation process.</p>
+                </div>
+                <div class="bg-white p-6 rounded-lg shadow-lg">
+                    <h4 class="text-xl font-bold mb-2">Farmers’ Store</h4>
+                    <p>Purchase high-quality seeds, fertilizers, pesticides, and other farming essentials at affordable rates. Enjoy doorstep delivery for all your farming supplies.</p>
+                </div>
+                <div class="bg-white p-6 rounded-lg shadow-lg">
+                    <h4 class="text-xl font-bold mb-2">Weather Updates & Alerts</h4>
+                    <p>Stay ahead with accurate, location-based weather forecasts and alerts for rain, drought, or storms.</p>
+                </div>
+                <div class="bg-white p-6 rounded-lg shadow-lg">
+                    <h4 class="text-xl font-bold mb-2">Knowledge Hub</h4>
+                    <p>Access tutorials, tips, and expert advice on modern farming techniques, organic farming, and water management. Join webinars and farmer-to-farmer forums to exchange insights and experiences.</p>
+                </div>
+                <div class="bg-white p-6 rounded-lg shadow-lg">
+                    <h4 class="text-xl font-bold mb-2">Government Subsidies & Loans</h4>
+                    <p>Discover and apply for government schemes, subsidies, and agricultural loans, all in one place.</p>
+                </div>
+                <div class="bg-white p-6 rounded-lg shadow-lg">
+                    <h4 class="text-xl font-bold mb-2">Crop Insurance Assistance</h4>
+                    <p>Learn about insurance options for your crops to safeguard against natural disasters or unexpected losses.</p>
+                </div>
+            </div>
+        </section>
+
+        <section class="my-8">
+            <h3 class="text-2xl font-bold mb-4">How AgroConnect Benefits Farmers:</h3>
+            <ul class="list-disc list-inside">
+                <li class="mb-2"><strong>Increase Profit Margins</strong> by selling directly to buyers.</li>
+                <li class="mb-2"><strong>Make Informed Decisions</strong> with AI-based land analysis and market trends.</li>
+                <li class="mb-2"><strong>Save Time & Money</strong> with rental services and easily accessible supplies.</li>
+                <li class="mb-2"><strong>Stay Updated</strong> on crucial weather and market information to minimize risks.</li>
+            </ul>
+        </section>
+
+        <section class="text-center my-8">
+            <a href="#" class="bg-green-600 text-white px-6 py-3 rounded-lg text-lg font-bold hover:bg-green-700">Join AgroConnect Today</a>
+        </section>
+    </main>
+
+    <footer class="bg-gray-800 text-white p-4">
+        <div class="container mx-auto text-center">
+            <p>&copy; 2023 AgroConnect. All rights reserved.</p>
+        </div>
+    </footer>
+</body>
+</html>
